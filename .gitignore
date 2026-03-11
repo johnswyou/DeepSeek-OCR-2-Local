@@ -1,0 +1,4 @@
+.venv
+__pycache__/
+*.py[cod]
+outputs/sample_input_recheck/

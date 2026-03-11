@@ -1,0 +1,11 @@
+<|ref|>text<|/ref|><|det|>[[41, 78, 133, 105]]<|/det|>
+DeepSeek OCR 2
+
+<|ref|>text<|/ref|><|det|>[[41, 132, 119, 160]]<|/det|>
+Invoice 12345
+
+<|ref|>text<|/ref|><|det|>[[41, 187, 111, 216]]<|/det|>
+Total: $42.00
+
+<|ref|>text<|/ref|><|det|>[[41, 243, 106, 272]]<|/det|>
+Thank you!

@@ -1,0 +1,10 @@
+transformers==4.46.3
+tokenizers==0.20.3
+PyMuPDF==1.26.4
+einops==0.8.1
+easydict==1.13
+addict==2.4.0
+Pillow==11.1.0
+numpy==2.2.3
+huggingface_hub==0.29.3
+safetensors==0.5.3
