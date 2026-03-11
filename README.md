@@ -76,3 +76,9 @@ FlashAttention requires an Ampere-or-newer GPU at runtime. On pre-Ampere GPUs su
 **NOTE**: I have not tested the FlashAttention path.
 
 `eager` is the working default.
+
+## Reference
+
+This repo runs the official `deepseek-ai/DeepSeek-OCR-2` model described in:
+
+> Haoran Wei, Yaofeng Sun, and Yukun Li. *DeepSeek-OCR 2: Visual Causal Flow*. arXiv:2601.20552 [cs.CV], 2026. https://doi.org/10.48550/arXiv.2601.20552
